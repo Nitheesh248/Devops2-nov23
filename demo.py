@@ -1,0 +1,1 @@
+print("moula is my friend");
